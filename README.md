@@ -1,4 +1,4 @@
-# Student-Productivity vs. Digital Habits
+# Student Productivity vs. Digital Habits
 
 Dataset: https://www.kaggle.com/datasets/sehaj1104/student-productivity-and-digital-distraction-dataset
 
